@@ -1,0 +1,13 @@
+1. Run the following File mathcross.py (ensure that the ip is same as ipv4)
+
+2. Open Command Propmt or Telnet to run the game
+
+3. Enter the following command 
+
+4. CMD : telnet 192.168.0.8 23   TELNET : open 192.168.0.8 23
+
+5. Input any numeric to anwser to question
+
+6. Rerun the whole script if you Quit the CMD or TELNET
+
+7.
