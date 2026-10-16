@@ -2,6 +2,7 @@
 A Network Infrastructure Project during diploma, is about showcasing the basic network connection between other devices using telnet and python
 The main purpose is to have a connection between devices. But you can try on single device, but it does not prove anything.
 
+PPT is a brief showcase for those who just want to view the results.
 
 Follow the .txt file instruction on how to run it 
 
