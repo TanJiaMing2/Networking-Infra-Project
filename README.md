@@ -9,10 +9,15 @@ Follow the .txt file instruction on how to run it
 Prerequisites :
 
 -Do note file sharing need to be enabled in the 
+
 -- Window Setting - Network & Internet - Advanced Network setting - Advanced sharing setting - On all the option inside
+
 -Suggested Python version 3.13
+
 -Enabling Telnet feature in Control Panel\Programs\Programs and Features\ Turn Windows Features on and off (Does not require restart)
+
 -Finding your IPv4 address - Go to cmd - type 'ipconfig' - find your ipv4 address in Wireless LAN adapter Wi-Fi: (if WIFI)/ Ethernet adapter Ethernet: (IF Wired)
+
 -- Go to mathcross.py and replace the HOST address with the ipv4 adrress . eg :192.168.0.5 into 192.168.34.134
 
 
